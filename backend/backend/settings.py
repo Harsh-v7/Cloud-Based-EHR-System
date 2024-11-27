@@ -124,8 +124,8 @@ DATABASES = {
         'NAME': config('ehrDB', default='default_database_name'),
         'USER': config('postgres', default='default_user'),
         'PASSWORD': config('1234', default=''),
-        'HOST': config('db_host', default='localhost'),
-        'PORT': config('db_port', default='5432'),
+        'HOST': config('DB_host', default='localhost'),
+        'PORT': config('DB_port', default='5432'),
     }
 }
 

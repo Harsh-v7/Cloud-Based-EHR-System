@@ -1,7 +1,7 @@
 from patients.models import Patient
 from django.core.management.base import BaseCommand
 from mixer.backend.django import mixer
-from faker import Faker  # Подключаем Faker для генерации случайных данных
+from faker import Faker  
 
 fake = Faker()
 
@@ -10,7 +10,6 @@ class Command(BaseCommand):
     help = 'Generate test data'
 
     def handle(self, *args, **options):
-        # Генерация пользователей
         for _ in range(100):
             mixer.blend(
                 Patient,
