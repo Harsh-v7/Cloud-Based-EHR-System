@@ -118,23 +118,12 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'NAME': config('ehrDB', default='default_database_name'),
-#        'USER': config('postgres'),
-#        'PASSWORD': config('1234'),
-#        'HOST': config('DB_HOST', default='127.0.0.1'),
-#        'PORT': config('DB_PORT', default='5432'),
-#    }
-#}
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': config('ehrDB', default='default_database_name'),
         'USER': config('postgres', default='default_user'),
-        'PASSWORD': config('db_password', default=''),
+        'PASSWORD': config('1234', default=''),
         'HOST': config('db_host', default='localhost'),
         'PORT': config('db_port', default='5432'),
     }
