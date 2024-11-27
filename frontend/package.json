@@ -1,5 +1,5 @@
 {
-  "name": "nikita",
+  "name": "harsh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,8 +22,9 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/redux-logger": "^3.0.12",
     "@whoicd/icd11ect": "^1.6.1",
-    "axios": "^1.6.5",
+    "axios": "^1.7.0",
     "bootstrap": "^5.3.2",
+    "harsh": "file:",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.2",
     "react-dom": "^18.2.0",
@@ -31,7 +32,7 @@
     "react-lorem-ipsum": "^1.4.10",
     "react-redux": "^9.1.0",
     "react-router-dom": "^6.21.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-toastify": "^10.0.3",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^3.1.0",
