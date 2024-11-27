@@ -2826,7 +2826,7 @@ aws4@^1.8.0:
   resolved "https://registry.npmjs.org/aws4/-/aws4-1.13.2.tgz"
   integrity sha512-lHe62zvbTB5eEABUVi/AwVh0ZKY9rMMDhmm+eeyuuUQbQ3+J+fONVQOZyj+DdrvD4BY33uYniyRJ4UJIaSKAfw==
 
-axios@^1:
+axios@^1.7.0:
   version "1.7.8"
   resolved "https://registry.npmjs.org/axios/-/axios-1.7.8.tgz"
   integrity sha512-Uu0wb7KNqK2t5K+YQyVCLM76prD5sRFjKHbJYCP1J7JFGEQ6nN7HWn9+04LAeiJ3ji54lgS/gZCH1oxyrf1SPw==
@@ -5914,7 +5914,7 @@ harmony-reflect@^1.4.6:
     "@testing-library/user-event" "^13.5.0"
     "@types/redux-logger" "^3.0.12"
     "@whoicd/icd11ect" "^1.6.1"
-    axios "^1"
+    axios "^1.7.0"
     bootstrap "^5.3.2"
     harsh "file:"
     react "^18.2.0"
