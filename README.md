@@ -23,13 +23,7 @@ The Electronic Health Record (EHR) system is a web-based application developed u
 
 To run the EHR system locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone git@github.com:HukumaBob/emr.git
-```
-
-2. Install dependencies:
+1. Install dependencies:
 
 # Backend dependencies
 
