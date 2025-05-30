@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Electronic Health Record System
 
 The Electronic Health Record (EHR) system is a web-based application developed using Django and React JS. It provides healthcare professionals with a platform to efficiently manage and store patient medical records digitally. This system aims to streamline the process of recording, storing, and retrieving patient information, improving the overall efficiency and accuracy of healthcare services.
