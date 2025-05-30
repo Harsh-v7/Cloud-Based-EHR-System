@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electronic Health Record System
 
 The Electronic Health Record (EHR) system is a web-based application developed using Django and React JS. It provides healthcare professionals with a platform to efficiently manage and store patient medical records digitally. This system aims to streamline the process of recording, storing, and retrieving patient information, improving the overall efficiency and accuracy of healthcare services.
@@ -82,3 +83,10 @@ Open your web browser and visit `http://localhost:3000/` to access the EHR syste
 ## Conclusion
 
 The Electronic Health Record system developed on Django and React JS provides a comprehensive solution for managing patient medical records efficiently. It combines the power of Django's backend capabilities with React JS's interactive frontend to create a user-friendly and feature-rich application. By adopting this EHR system, healthcare professionals can enhance their workflow, improve patient care, and streamline medical record management.
+=======
+# Welcome to GitHub Desktop!
+
+This is your README. READMEs are where you can communicate what your project is and how to use it.
+
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+>>>>>>> 51ee10a572082a4c24d2aa68d0c4bd90d2ccb08d
