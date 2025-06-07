@@ -23,7 +23,7 @@ A web-based EHR system built using Django and React that helps healthcare profes
 
 ---
 
-## 🚀 Setup Guide
+## Setup Guide
 
 ### 📦 Backend Setup
 ```bash
@@ -41,13 +41,13 @@ npm install
 - Create a database
 - Update DB config in `backend/settings.py`
 
-### 🧱 Run Migrations
+### Run Migrations
 ```bash
 cd backend
 python manage.py migrate
 ```
 
-### ▶️ Start Servers
+### Start Servers
 - Backend:
 ```bash
 python manage.py runserver  # http://localhost:8000/
@@ -59,7 +59,7 @@ npm start                  # http://localhost:3000/
 
 ---
 
-## 🔚 Conclusion
+## Conclusion
 
 This EHR system provides a clean, scalable interface for medical professionals to manage records digitally. It combines Django’s backend strength with React’s dynamic frontend for an efficient healthcare workflow.
 
