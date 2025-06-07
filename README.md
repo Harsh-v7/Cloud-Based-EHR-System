@@ -64,5 +64,4 @@ npm start                  # http://localhost:3000/
 This EHR system provides a clean, scalable interface for medical professionals to manage records digitally. It combines Django’s backend strength with React’s dynamic frontend for an efficient healthcare workflow.
 
 ---
-
-Made by Harsh Verma
+> Created by Harsh Verma
