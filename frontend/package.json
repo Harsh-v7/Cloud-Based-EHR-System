@@ -62,7 +62,6 @@
       "last 1 safari version"
     ]
   },
-  "description": "Electronic Medical Records",
+  "description": "Electronic Health Records",
   "main": "index.js",
-  "license": "MIT"
 }
